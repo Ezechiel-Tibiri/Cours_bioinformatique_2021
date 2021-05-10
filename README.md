@@ -13,17 +13,17 @@ Dans un premier temps, nous vous suggérons d'apprendre les bases du [dogme cent
 *Temps estimé : 4 heures.*
 
 Ensuite, nous vous demandons de lire [le cours en ligne](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/Cours_bioinformatique_octobre_2020.pdf) qui sera mis à jour au fure et à mésure que le cours progresse.
+
 *Temps estimé : 10 heures.*
+
 Chapitres à traiter :
 
 * Définitions et Rappels
 * [Obtention des données](https://www.ncbi.nlm.nih.gov/)
 * [Alignement](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/alignement.md)
-* Évaluation de la diversité
 * [Phylogénie](https://github.com/Ezechiel-Tibiri/Cours_bioinformatique_2020/blob/main/data_HIV.zip)
-* Recombinaison
-* Conclusion
-* Temps estimé : 4 heures.*
+
+*Temps estimé : 4 heures.*
 ## Installation d’un shell Linux
 ### Linux et Mac OS X
 Si vous avez travaillez avec les systèmes d’exploitations Linux (Ubuntu, Mint, Debian…) ou Mac OS X, vous avez déjà un shell installé sur votre machine. Et donc vous n'aurez pas besoin d'installer un shell Linux
@@ -33,6 +33,7 @@ Si vous avez travaillez avec les systèmes d’exploitations Linux (Ubuntu, Mint
   * [Installer le shell Bash Linux sous Windows 10 avec WSL](https://www.youtube.com/watch?v=CyG16N3GJWo), 2020.
   * How to install Windows Subsystem for Linux (WSL) on Windows 10, 2019.
   * [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/), 2018.
+
 Depuis un shell Linux, votre répertoire utilisateur de Windows est accessible via le chemin `/mnt/c/Users/<login-windows>` ou `<login-windows>` est votre *login* sous Windows. Nous vous conseillons de travailler depuis ce répertoire afin que vos fichiers puissent également être visibles depuis Windows.
 ## [Introduction à l'environement UNIX](https://github.com/Ezechiel-Tibiri/GNU-LINUX)
 *Temps estimé : 8 heures.*
