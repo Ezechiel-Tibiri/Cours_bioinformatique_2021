@@ -1,6 +1,9 @@
 # Cours bioinformatique session 2021
 Bienvenue au cours d'introduction à la Bioinformatique. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires. A noter que la présence physique à ce cours est plus que nécessaire voir obligatoire.
 
+## Outil d'échange et de communication
+Nous allons échanger via **slack** qui est un réseau social professionnel. Tous les étudiants devrons s'inscrire à ce canal d'échange [ici](https://master-dbm.slack.com/archives/C021420EZKQ). Vous devriez fournir juste votre mail, votre nom et prénoms. Les pseudonymes ne seront pas accepter.
+
 ## Intervenants
 
 1. Ezechiel B. TIBIRI, Post-Doc INERA, `e.tibiri@agshare.today` (responsable)
