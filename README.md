@@ -6,7 +6,7 @@ Nous allons échanger via **slack** qui est un réseau social professionnel. Tou
 
 ## Intervenants
 
-1. Ezechiel B. TIBIRI, Post-Doc INERA, `e.tibiri@agshare.today` (responsable)
+1. Ezechiel B. TIBIRI, INERA/CNRST, `e.tibiri@agshare.today` (responsable)
 2. Fidèle TIENDREBEOGO, INERA/CNRST, `fidele.tiendrebeogo@wave-center.org` (co-responsable)
 
 ## Prérequis
